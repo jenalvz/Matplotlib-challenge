@@ -8,6 +8,7 @@ As a senior data analyst at the company, you've been given access to the complet
 The executive team has tasked you with generating all of the tables and figures needed for the technical report of the clinical study. They have also asked you for a top-level summary of the study results.
 
 Resources used:
+Module 5 in-class activities.
 https://matplotlib.org/stable/gallery/statistics/boxplot_demo.html
 https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.drop_duplicates.html
 https://stackoverflow.com/questions/41328633/how-do-i-print-entire-number-in-python-from-describe-function
