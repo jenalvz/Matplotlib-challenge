@@ -17,3 +17,8 @@ https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.aggregate.html
 https://stackoverflow.com/questions/35204529/typeerror-object-of-type-int-has-no-len-error-assistance-needed
 https://pandas.pydata.org/docs/getting_started/intro_tutorials/06_calculate_statistics.html
 https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.drop_duplicates.html
+https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.iqr.html
+https://www.statology.org/interquartile-range-python/
+https://stackoverflow.com/questions/43342564/flier-colors-in-boxplot-with-matplotlib
+
+Also worked with a TA.
